@@ -7,11 +7,6 @@ The problem was split into four subsystems – hull design, paddle design, troll
 #### Outcome
 The outcome of the first subsystem was the optimization of the kayak hull for a 8.9% increase in performance. Through the second subsystem an output average thrust of 58.8 N was received as the optimal value. The third subsystem found the maximum motor thrust obtainable to be 1820 N. The fourth subsystem took into consideration the relationship between seat height and paddling efficiency, as well as boat stability – the output was the optimal position of center of gravity equal to 0.14 m above waterline. Overall, on the system level the final speed of a fishing kayak was 3.0 m/s for human-powered and 10.0 m/s for motor-powered scenarios.
 
-#### Dependencies
-
-- MATLAB's Global Optimisation Toolbox
-- MATLAB's Optimisation Toolbox
-
 #### Contributors
 
 *Alfred Thompson (Subsystem 1), Gabriele D’Amone (Subsystem 2), Ruksana Shaukat-Jali (Subsystem 3), and Melisa Mukovic (Subsystem 4).*
