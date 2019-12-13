@@ -1,5 +1,8 @@
 ## Subsystem 1 Code
 ### Author: Alfie Thompson
+### Introduction
+This subsystem looks at the optimisation of a fishing kayak hull. Three methods are used to find optimal shape, starting from a simplified macroscopic analysis of dimensions and progressing to a more focused feature-based optimisation. A linear resistance optimisation was performed analytically, then a multi-objective optimisation analysis also took manoeuvrability into consideration. Finally, a manual genetic algorithm was performed using CFD to optimize possible features.
+
 ### Matlab
 Matlab code has no requirements and the single file will output figures and results seen in the report.
 This is to aid in the simplicity for marking.
