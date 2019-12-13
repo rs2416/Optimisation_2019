@@ -15,6 +15,11 @@ This is to aid in the simplicity for marking.
 5. Comparisons
 6. Thrust to velocity conversion
 
+#### Outputs
+Optimised length (4m), width (0.35m) and depth (0.2m)
+Perforance increase of 9%
+Velocity under paddle power (3.10m/s)
+
 ### CFD
 CFD methodology is outlined here:
 https://drive.google.com/open?id=1QCwSywyryQJAc4CZ5uKiqGCLlsJqQHmr
