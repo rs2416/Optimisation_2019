@@ -1,6 +1,6 @@
 close all
 clear all
-%% Hull Dynamics 2
+%% Formulae
 % Equations used throughout code
 
 %Rt = (2*p*(V^2)*pi)*(((L*B)^1.6+(L*D)^1.6+(B*D)^1.6)/3)^(1/16)*(0.075/(log10((L*V)/(1.004*10^(-6)))-2)^2);
@@ -125,7 +125,8 @@ xlabel('Length (m)')
 ylabel('Resistance')
 title('Plot of Length of hull against rotational resistance')
 
-%% Plotting Length against weighted Resistance sum
+%% Weighted resistance sum
+% Multi-objective function
 
 % Initialise Values - Reset
 D = D_ben;
@@ -233,6 +234,7 @@ ylabel('Normalised Weighted Resistance')
 title('Plot of Length of hull against weighted resistance')
 
 % ----------------------------------------------------------------------------------------
+
 %% Non-linear solving - fmincon
 %https://uk.mathworks.com/matlabcentral/answers/144705-how-to-create-constraints-in-fmincon
 % x(1) = L
