@@ -14,4 +14,4 @@ The outcome of the first subsystem was the optimization of the kayak hull for a 
 
 #### Contributors
 
-*Alfred Thompson, Ruksana Shaukat-Jali, Gabriele D’Amone and Melisa Mukovic.*
+*Alfred Thompson (Subsystem 1), Gabriele D’Amone (Subsystem 2), Ruksana Shaukat-Jali (Subsystem 3), and Melisa Mukovic (Subsystem 4).*
