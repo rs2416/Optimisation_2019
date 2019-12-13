@@ -1,5 +1,4 @@
-# Subsystem 1 Code
-## Hull optimisation
+## Subsystem 1 Code
 ### Matlab
 Matlab code has no requirements and the single file will output figures and results seen in the report.
 This is to aid in the simplicity for marking.
