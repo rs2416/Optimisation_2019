@@ -8,7 +8,12 @@ This is to aid in the simplicity for marking.
 - MATLAB's Optimisation Toolbox
 
 #### Structure:
-
+1. Equations used throughout code
+2. Benchmark value imput
+3. Anaylitical anaylses
+4. Non-linear solving
+5. Comparisons
+6. Thrust to velocity conversion
 
 ### CFD
 CFD methodology is outlined here:
