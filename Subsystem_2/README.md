@@ -6,9 +6,9 @@
 
 **Overview:** This study aims to maximise the propulsive force that a paddler with a muscular strength of 125 N can generate in a specific amount of time (180 seconds).
 
-The outputs of this Optimisation will suggest a personalised Paddle blade design and Paddling Tecnique:
+The outputs of this Optimisation will suggest a personalised Paddle blade design and Paddling Technique:
 
-**Paddling Tecnique**
+**Paddling Technique**
 
 - Peak Blade Velocity 
 - Stroke Exit Angle
