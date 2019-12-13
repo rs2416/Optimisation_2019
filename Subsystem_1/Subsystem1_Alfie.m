@@ -83,13 +83,7 @@ for j = 1:10
         Rt_matrix(i,j)= Rt;
         ratio = L/D;
         lam = 2.51*exp(-0.10008*ratio) + 0.2716; % laminar coefficient of friction at ratio of length to depth
-        fd_rot = 117.9*((L^3.1)*lam*(w_sqr)); % rotational drag around z-axis
-%         if fd_rot > fd_rot_ben % when rotational drag is higher than the benchmark
-%            fin_L = L;
-%            fin_Rt = Rt;
-%            break
-%         end
-    
+        fd_rot = 117.9*((L^3.1)*lam*(w_sqr)); % rotational drag around z-axis   
     end
 end
 figure();
