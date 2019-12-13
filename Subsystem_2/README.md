@@ -40,11 +40,14 @@ To run this code, first ensure you have installed on Matlab the following Toolbo
 
 Then, please find below an overview of the Matlab files and their content:
 
-- **AirfoilCoefficient.m** Metamodel of equations for Coefficient of Drag and Coefficient of Lift
+- Drag & Lift Coefficients
+  - **AirfoilCoefficient.m** Metamodel of equations for Coefficient of Drag and Coefficient of Lift
   - Download **Coefficient.xlsx**
-- **Fatigue.m** Metamodel of Force Profile affected by Fatigue
-- **FminconInteriorPoint.m** Fmincon Interior Point Algorithm + Global Search 
-- **SQPAlgorithm.m** Fmincon Sequential Quadratic Programming Algorithm + Global Search
+- Force-Fatigue Profile
+  - **Fatigue.m** Metamodel of Force Profile affected by Fatigue
+- Algorithms
+  - **FminconInteriorPoint.m** Fmincon Interior Point Algorithm + Global Search 
+  - **SQPAlgorithm.m** Fmincon Sequential Quadratic Programming Algorithm + Global Search
 
 
 ## Performance
