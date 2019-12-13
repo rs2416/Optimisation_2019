@@ -11,3 +11,7 @@ This allowed for a more in-depth analysis of different factors affecting the fin
 
 - MATLAB's Global Optimisation Toolbox
 - MATLAB's Optimisation Toolbox
+
+#### Contributors
+
+*Alfred Thompson, Ruksana Shaukat-Jali, Gabriele D’Amone and Melisa Mukovic.*
