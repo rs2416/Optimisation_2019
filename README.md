@@ -1,4 +1,4 @@
-## Optimisation of a Fishing Kayak
+## Optimisation of a Fishing Kayak _ Group 3
 #### Introduction
 The aim of this project is to maximise the speed of a fishing kayak under human and motor power. Fishing kayaks are used to get out to remote lake and sea fishing locations and use motor power to get most of the distance, followed by a paddle power to get to the desired fishing locations almost silently.
 
